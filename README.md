@@ -6,7 +6,7 @@ Instalijrajte userscript mangager (Violentmonkey, Tampermonkey, Greasemonkey, ..
 
 Instalirajte skriptu:
 
-Koristi ovaj link i ili kopirajte sledeci URL
-> 
+Klikni [ovde](https://raw.githubusercontent.com/lmilojevicc/imet-block/main/index.user.js) ili kopirajte sledeci URL za manuelnu instalaciju
+`https://raw.githubusercontent.com/lmilojevicc/imet-block/main/index.user.js`
 
 Uzivajte u IMET-u
